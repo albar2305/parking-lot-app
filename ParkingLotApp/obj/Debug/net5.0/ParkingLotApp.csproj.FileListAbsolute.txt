@@ -1,0 +1,16 @@
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\obj\Debug\net5.0\ParkingLotApp.csproj.AssemblyReference.cache
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\obj\Debug\net5.0\ParkingLotApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\obj\Debug\net5.0\ParkingLotApp.AssemblyInfoInputs.cache
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\obj\Debug\net5.0\ParkingLotApp.AssemblyInfo.cs
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\obj\Debug\net5.0\ParkingLotApp.csproj.CoreCompileInputs.cache
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\bin\Debug\net5.0\ParkingLotApp.exe
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\bin\Debug\net5.0\ParkingLotApp.deps.json
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\bin\Debug\net5.0\ParkingLotApp.runtimeconfig.json
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\bin\Debug\net5.0\ParkingLotApp.runtimeconfig.dev.json
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\bin\Debug\net5.0\ParkingLotApp.dll
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\bin\Debug\net5.0\ref\ParkingLotApp.dll
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\bin\Debug\net5.0\ParkingLotApp.pdb
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\obj\Debug\net5.0\ParkingLotApp.dll
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\obj\Debug\net5.0\ref\ParkingLotApp.dll
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\obj\Debug\net5.0\ParkingLotApp.pdb
+D:\Coding\NET\ParkingLotApp\ParkingLotApp\obj\Debug\net5.0\ParkingLotApp.genruntimeconfig.cache
